@@ -19,7 +19,7 @@ python skills and my understanding of convoluntional neural networks. The slides
   * Convolutional Networks(Completed)
   * Tensorflow on CIFAR-10(Completed)
   
-* Assignment3
+* Assignment3(Only finished Tensorflow vision)
   * Image Captioning with Vanilla RNNs(Completed)
   * Image Captioning with LSTMs(Completed)
   * Network Visualization: Saliency maps, Class Visualization, and Fooling Images(Completed)
