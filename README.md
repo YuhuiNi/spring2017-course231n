@@ -13,11 +13,19 @@ python skills and my understanding of convoluntional neural networks. The slides
   * Higher Level Representations: Image Features(Completed)
 
 * Assignment2
-  * to be continued
-
+  * Fully-connected Neural Network(Completed)
+  * Batch Normalization(Completed)
+  * Dropout(Completed)
+  * Convolutional Networks(Completed)
+  * Tensorflow on CIFAR-10(Completed)
+  
 * Assignment3
-  * to be continued
+  * Image Captioning with Vanilla RNNs(Completed)
+  * Image Captioning with LSTMs(Completed)
+  * Network Visualization: Saliency maps, Class Visualization, and Fooling Images(Completed)
+  * Style Transfer(Completed)
+  * Generative Adversarial Networks(Completed)
 
 # Contact
 
-If you have any questions, please contact me by <yhni@uchicago.edu>
+If you have any questions, please contact me via <yhni@uchicago.edu>
